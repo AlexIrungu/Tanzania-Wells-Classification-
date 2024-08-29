@@ -29,7 +29,7 @@ This project was completed as part of the Phase 3 curriculum for the data scienc
 The repository contains the following files and directories:
 
 - `index.ipynb`: Jupyter Notebook containing the project code, analysis, and results.
-- `Terry_Stops_20240827.csv/`: Directory containing the datasets used in this project.
+<!-- - `Terry_Stops_20240827.csv/`: Directory containing the datasets used in this project. -->
 - `README.md`: This README file.
 
 ## Installation
